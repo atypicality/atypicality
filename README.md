@@ -61,6 +61,13 @@
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif?raw=true">
 </picture>
 
-<h3 text-align="center"> <b> <a href="www.linkedin.com/in/dathanl" target="_blank">
-  <img alt="Dathan Lang | Linkedin" width="20px" src="LinkedIn_logo_initials.png" />
-Use the link to connect with me on Linkedin! 😄</a></b></h3> 
+<div align="center">
+  <h3>
+    <b>
+      <a href="https://www.linkedin.com/in/dathanl" target="_blank">
+        <img alt="Dathan Lang | Linkedin" width="20px" src="LinkedIn_logo_initials.png" />
+        Use the link to connect with me on Linkedin! 😄
+      </a>
+    </b>
+  </h3>
+</div>

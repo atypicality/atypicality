@@ -14,7 +14,7 @@
   <!-- LEFT COLUMN -->
   <td valign="top" width="50%">
 
-  ### <img src="Programming_Languages.gif" width="22px"> Programming Languages
+  ### <img src="https://raw.githubusercontent.com/atypicality/yourrepo/main/assets/Programming_Languages.gif" width="22px"> Programming Languages
   
   ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
   ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
@@ -34,7 +34,7 @@
   <!-- RIGHT COLUMN -->
   <td valign="top" width="50%">
 
-  ### <img src="CP_PS.gif" width="22px"> Software & Tools
+  ### <img src="https://raw.githubusercontent.com/atypicality/yourrepo/main/assets/CP_PS.gif" width="22px"> Software & Tools
 
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
@@ -57,7 +57,6 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=atypicality&theme=tokyonight&hide_border=true)
 

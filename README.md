@@ -14,8 +14,7 @@
   <!-- LEFT COLUMN -->
   <td valign="top" width="50%">
 
-  ### <img src="https://raw.githubusercontent.com/atypicality/yourrepo/main/assets/Programming_Languages.gif" width="22px"> Programming Languages
-  
+  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px> </picture> **Programming languages**
   ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
   ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
@@ -34,8 +33,7 @@
   <!-- RIGHT COLUMN -->
   <td valign="top" width="50%">
 
-  ### <img src="https://raw.githubusercontent.com/atypicality/yourrepo/main/assets/CP_PS.gif" width="22px"> Software & Tools
-
+  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 20px> </picture> **Software & Tools**
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
   ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white)
@@ -57,6 +55,7 @@
 ## 📈 GitHub Stats
 
 <div align="center">
+
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=atypicality&theme=tokyonight&hide_border=true)
 

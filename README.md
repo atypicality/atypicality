@@ -14,7 +14,7 @@
   <!-- LEFT COLUMN -->
   <td valign="top" width="50%">
 
-  ### **Programming Languages**
+  ### <img src="Programming_Languages.gif" width="22px"> Programming Languages
   
   ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
   ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
@@ -34,7 +34,7 @@
   <!-- RIGHT COLUMN -->
   <td valign="top" width="50%">
 
-  ### 🧰 **Software & Tools**
+  ### <img src="CP_PS.gif" width="22px"> Software & Tools
 
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
@@ -58,11 +58,12 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=atypicality&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atypicality&layout=compact&theme=tokyonight&hide_border=true" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=atypicality&theme=tokyonight&hide_border=true)
 
 </div>
+
+---
 
 <div align="center">
   <a href="https://www.linkedin.com/in/dathanl" target="_blank">

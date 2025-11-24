@@ -26,37 +26,7 @@
 ### <picture> <img src="ogli-1.gif?raw=true" alt="Software&Tools" width="17px"> </picture> IDEs 
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white) ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white) ![PyCharm](https://img.shields.io/badge/-Pycharm-3776AB?style=flat&logo=Pycharm&logoColor=white) 
 
-## Github Stats 
-
-<table>
-    <tr>
-        <td width="50%">
-            <img src="https://github-readme-stats.vercel.app/api?username=atypicality&theme=cobalt&show_icons=true&count_private=true" />
-            <br></br>
-            <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=atypicality&theme=dark&hide_border=true" />
-        </td>
-        <td width="50%">
-            <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=atypicality&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
-        </td>
-    </tr>
-</table>
-
-<br>
-
-<picture>
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif?raw=true">
-</picture>
-                                                                
-<br>
-<p>
-    <div>
-        <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-        <img width=100% src="https://github-profile-trophy.vercel.app/?username=atypicality&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-        </a>
-    </div>
-</p>
-<br>
-
+                                  
 <picture>
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif?raw=true">
 </picture>

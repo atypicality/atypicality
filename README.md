@@ -4,7 +4,7 @@
 ### 💻 About Me
 - 🎓 CS & ITWS @ RPI (Troy, NY)  
 - 🤪 Competitive Scrabble 🎲 & Jazz Piano 🎹  
-- ⌨️ Seeking **2026 Summer SWE / IT Internships**
+- ⌨️ Seeking **2027 Summer SWE / IT Internships**
 
 ## 🛠️ Skills
 
